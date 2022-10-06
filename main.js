@@ -1,1 +1,1 @@
-alert("There's a link to two of my other projects below.")
+alert("There are links to two of my other projects below.")

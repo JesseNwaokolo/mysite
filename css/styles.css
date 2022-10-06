@@ -186,7 +186,13 @@ li:hover{
     }
 
     .profile p{
-        width: 30%;
+        width: 50%;
         margin: 0 auto;
     }
+      
+    .profile img{
+    width: 40%;
+    height: 40%;
+    border-radius: 50%;
+}
   }
